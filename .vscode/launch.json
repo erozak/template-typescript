@@ -2,7 +2,7 @@
   "version": "0.2.0",
   "configurations": [
     {
-      "name": "Debug index.ts",
+      "name": "Launch Program",
       "type": "node",
       "request": "launch",
       "cwd": "${workspaceRoot}",
